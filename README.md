@@ -102,3 +102,36 @@ make target.  This template may be modified if needed, but existing modules
 will not automatically be updated.  The template directory is rendered by the
 [gomplate](https://docs.gomplate.ca/) utility, see its documentation to learn
 its capabilities.  Currently only `MODULENAME` is passed in as a variable.
+<!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+<!-- markdownlint-disable -->
+
+
+
+## Modules
+
+| Name | Source | Version |
+|------|--------|---------|
+| <a name="module_s3_bucket"></a> [s3\_bucket](#module\_s3\_bucket) | ./modules/aws-s3-bucket | n/a |
+
+## Providers
+
+No providers.
+
+## Requirements
+
+No requirements.
+
+## Resources
+
+No resources.
+
+## Inputs
+
+No inputs.
+
+## Outputs
+
+No outputs.
+
+
+<!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
